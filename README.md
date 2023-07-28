@@ -28,3 +28,7 @@ Please follow this steps:
 - Our team will invite you to #mobile-engineering team
 
 [Documentation](https://docs.google.com/document/d/1LnAXX8RGiOrjv-Gb1kXZgecWgOn4BYJMAA7xx0RornU/edit?usp=sharing)
+
+### APK
+Link: [APK in Google Drive](https://drive.google.com/file/d/1qAjsq0dbJ9R8Gydapcnr2umBJ-7NQ-Ar/view?usp=sharing)
+
